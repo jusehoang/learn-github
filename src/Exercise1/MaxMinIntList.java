@@ -28,6 +28,10 @@ class MaxMinIntList extends ArrayList<Integer> {
         }
         return max;
     }
+
+     int min (int a){
+        return a+2;
+     }
 }
 
 
